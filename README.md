@@ -1,4 +1,4 @@
-# RAG_PROJECT
+# PROJECT_RAG
 # 📚 ResearchGPT – AI Research Paper Chatbot
 
 ResearchGPT is an AI-powered research paper chatbot that allows users to upload research papers in PDF format and ask questions in natural language. It uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant information from uploaded documents and generate context-aware answers using a locally running Large Language Model (LLM).
